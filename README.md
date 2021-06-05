@@ -49,3 +49,14 @@ Follow these steps to create the SSH keys for access to the project you want to 
 
 Generate the keys with the following command and copy them to the keys directory
 > ssh-keygen -f myproject-base -t rsa -N '' -q
+
+## Running Terraform
+Finally run Terraform and deploy your project, essentially the main terraform commands according to their life cycle are the following:
+- terraform init
+> Start terraform
+- terraform apply
+> Apply the configured changes to the files
+- terraform destroy
+> Destroy changes generator by terraform apply
+
+Now you can enjoy your hacking infrastructure in the AWS cloud
