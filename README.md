@@ -79,4 +79,5 @@ Finally run Terraform and deploy your project, essentially the main terraform co
 - terraform destroy
 > Destroy changes generator by terraform apply
 
+At the end of the execution terraform will give you the public IP address of the instance to connect along with the access credentials.
 Now you can enjoy your hacking infrastructure in the AWS cloud
