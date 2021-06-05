@@ -81,3 +81,11 @@ Finally run Terraform and deploy your project, essentially the main terraform co
 
 At the end of the execution terraform will give you the public IP address of the instance to connect along with the access credentials.
 Now you can enjoy your hacking infrastructure in the AWS cloud
+
+## Donations
+If you consider that this work was of great help, invite me a coffee in [paypal](https://www.paypal.com/paypalme/exploitwriter)
+Happy hacking
+
+## Social Network
+- [Linkedin](https://www.linkedin.com/in/samir-s%C3%A1nchez-garnica-048944185?originalSubdomain=co)
+- [Twitter](https://twitter.com/sasaga92)
