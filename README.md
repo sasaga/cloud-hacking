@@ -1,7 +1,7 @@
 # cloud-hacking
 Sometimes it is difficult to practice pentesting when we do not have an environment at hand or our hardware resources are not enough, with **cloud hacking** you can make use of **AWS** and **Terraform** to use your favorite pentesting distributions and best of all, from a **web browser** .
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/n8SwVT7_Fnw/0.jpg)](https://www.youtube.com/watch?v=n8SwVT7_Fnw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/n8SwVT7_Fnw/maxresdefault.jpg)](https://www.youtube.com/watch?v=n8SwVT7_Fnw)
 
 # Currently active images
 - kali-base-xfc4
