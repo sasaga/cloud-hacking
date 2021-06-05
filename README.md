@@ -2,7 +2,7 @@
 Sometimes it is difficult to practice pentesting when we do not have an environment at hand or our hardware resources are not enough, with **cloud hacking** you can make use of **AWS** and **Terraform** to use your favorite pentesting distributions and best of all, from a **web browser** .
 
 # Currently active images
-- kali-base-xfce
+- kali-base-xfc4
 > Kali linux base image without tools for enthusiasts who want to install the tools at will.
 - kali-top10-xfce
 > Image of kali linux with the top 10 tools
